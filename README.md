@@ -25,5 +25,5 @@ https://github.com/lukakrzatala/wisielec.git
 Open the index.html file in a browser.
 Enter your nickname and press NEWGAME
 
-## Contact
-Created by @lukakrzatala
+## Credits
+Created by lukakrzatala
